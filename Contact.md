@@ -26,7 +26,7 @@
         <input type="password" name="">
         <input type="submit">
     </form>
-    <p><a href="index.html">Home</a></p>
+    <p><a href="index.md">Home</a></p>
 </body>
 
 </html>
