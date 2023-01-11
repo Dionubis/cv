@@ -15,7 +15,7 @@
         <li><a href="https://www.whufc.com/">Football</a></li>
         <li><a href="https://www.amazon.co.uk/hz/wishlist/ls/3SUOR4H7TX7R8?ref_=wl_share">Reading</a></li>
     </ol>
-    <p><a href="index.html">Home</a></p>
+    <p><a href="index.md">Home</a></p>
 </body>
 
 </html>
