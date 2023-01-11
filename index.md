@@ -82,6 +82,6 @@
             </td>
         </tr>
     </table>
-    <h3><a href="Hobbies.html">Hobbies</a> <a href="Contact.html">Contact Details</a>
+    <h3><a href="Hobbies.md">Hobbies</a> <a href="Contact.md">Contact Details</a>
 
 </html>
