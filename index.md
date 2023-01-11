@@ -9,7 +9,7 @@
 <body>
     <table cellspacing="20">
         <tr>
-            <td><img src="images/defme.jpg" alt="this_is_totally_me_and_not_someone_else" title="Totally Me."></td>
+            <td><img src="https://pbs.twimg.com/profile_images/580713052686798848/Qr4gjB7b_400x400.jpg" alt="this_is_totally_me_and_not_someone_else" title="Totally Me."></td>
             <td>
                 <h1>Scott Sinfield</h1>
                 <p><em>Some Random <strong><a href="https://en.wikipedia.org/wiki/Asshole">Asshole</a>.</strong></em>
